@@ -1,0 +1,6 @@
+gender,female,female,female,female,female,male,male,male,male,male,male,male,total
+class,1st,2nd,3rd,restaurant staff,victualling crew,1st,2nd,3rd,deck crew,engineering crew,restaurant staff,victualling crew,
+survived,,,,,,,,,,,,,
+no,5,12,110,0,3,118,154,418,23,253,66,334,1496
+yes,139,94,106,2,18,62,24,75,43,71,1,76,711
+total,144,106,216,2,21,180,178,493,66,324,67,410,2207
